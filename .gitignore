@@ -1,5 +1,15 @@
-constants.py
-__pycache__
-persist/
 .DS_Store
 .chroma/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Python
+__pycache__
+persist/
+
+
+
