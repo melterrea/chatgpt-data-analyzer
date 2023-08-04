@@ -1,0 +1,57 @@
+--------------------------
+Library Inventory - 08/04/2023
+--------------------------
+
+1. Book Title: To Kill a Mockingbird
+   Author: Harper Lee
+   Publication Year: 1960
+   Available Copies: 5
+
+2. Book Title: 1984
+   Author: George Orwell
+   Publication Year: 1949
+   Available Copies: 4
+
+3. Book Title: The Great Gatsby
+   Author: F. Scott Fitzgerald
+   Publication Year: 1925
+   Available Copies: 6
+
+4. Book Title: Pride and Prejudice
+   Author: Jane Austen
+   Publication Year: 1813
+   Available Copies: 8
+
+5. Book Title: Moby Dick
+   Author: Herman Melville
+   Publication Year: 1851
+   Available Copies: 4
+
+6. Book Title: Ulysses
+   Author: James Joyce
+   Publication Year: 1922
+   Available Copies: 3
+
+7. Book Title: War and Peace
+   Author: Leo Tolstoy
+   Publication Year: 1869
+   Available Copies: 2
+
+8. Book Title: The Catcher in the Rye
+   Author: J.D. Salinger
+   Publication Year: 1951
+   Available Copies: 5
+
+9. Book Title: The Lord of the Rings
+   Author: J.R.R. Tolkien
+   Publication Year: 1954
+   Available Copies: 7
+
+10. Book Title: A Tale of Two Cities
+    Author: Charles Dickens
+    Publication Year: 1859
+    Available Copies: 4
+
+--------------------------
+End of Inventory
+--------------------------
